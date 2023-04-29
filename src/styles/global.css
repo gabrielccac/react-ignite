@@ -1,0 +1,18 @@
+/* import the inter font from google fonts all weights*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  font: 16px "Inter", sans-serif;
+  background: #fff;
+  color: #343a40;
+  margin: 2rem;
+}

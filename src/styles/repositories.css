@@ -1,0 +1,26 @@
+h1 {
+  margin-bottom: -.5rem;
+}
+
+li {
+  display: grid;
+  gap: .375rem;
+  margin: 2rem 0;
+}
+
+p {
+  font-size: .875rem;
+  color: #666;
+}
+
+a {
+  /* display: inline-block; */
+  text-decoration: none;
+  color: #8257e6;
+  margin-top: .25rem;
+}
+
+a:hover {
+  color: #7159c1;
+  cursor: pointer;
+}
